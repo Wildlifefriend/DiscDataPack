@@ -1,0 +1,1 @@
+give @s minecraft:test_block[minecraft:jukebox_playable="custommusic:hello_parody",minecraft:item_model="custommusic:music_disc_hello_parody",minecraft:item_name="Music Disc"] 1

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "PIY",
+    "BBB"
+  ],
+  "key": {
+    "B": [
+      "minecraft:black_concrete"
+    ],
+    "Y": [
+      "minecraft:yellow_stained_glass"
+    ],
+    "P": [
+      "minecraft:pink_stained_glass"
+    ],
+    "I": [
+      "minecraft:iron_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:spamton",
+      "minecraft:item_model": "custommusic:music_disc_spamton",
+      "minecraft:item_name": "Music Disc",
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1
+  },
+  "show_notification": true
+}

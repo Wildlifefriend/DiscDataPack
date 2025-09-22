@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "BHB",
+    "BBB"
+  ],
+  "key": {
+    "B": "minecraft:brown_concrete",
+    "H": "minecraft:player_head"
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:minecraft_wont_add_inches",
+      "minecraft:item_model": "custommusic:music_disc_minecraft_wont_add_inches"
+    },
+    "count": 1
+  }
+}

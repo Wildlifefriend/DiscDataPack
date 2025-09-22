@@ -1,0 +1,2 @@
+execute if entity @a[nbt={RootVehicle: {Entity: {Rotation: [0.0f,0.0f], Motion: [0.0d,0.0d,2.074d], id:"minecraft:minecart"}},equipment: {offhand: {id: "minecraft:lapis_block"}}, SelectedItem: {id: "minecraft:gold_block"}}] run function custommusic:get_the_world_revolving
+execute if block ~ ~ ~ water if block ~ ~2 ~ minecraft:tripwire_hook if entity @a[nbt={equipment:{head:{id:"minecraft:leather_helmet",components:{"minecraft:custom_name":"Cowboy Hat"}}},SelectedItem:{id:"minecraft:end_rod"}}] run function custommusic:get_ram_ranch

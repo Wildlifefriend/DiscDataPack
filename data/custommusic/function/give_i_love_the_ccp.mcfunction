@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:i_love_the_ccp",minecraft:item_model="custommusic:music_disc_i_love_the_ccp"] 1

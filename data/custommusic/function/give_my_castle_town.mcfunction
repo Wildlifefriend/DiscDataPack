@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:my_castle_town",minecraft:item_model="custommusic:music_disc_my_castle_town"] 1

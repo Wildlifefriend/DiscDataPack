@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:minecraft_wont_add_inches",minecraft:item_model="custommusic:music_disc_minecraft_wont_add_inches"] 1

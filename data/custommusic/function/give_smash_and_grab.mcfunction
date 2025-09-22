@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:thrash_machine",minecraft:item_model="custommusic:music_disc_thrash_machine"] 1

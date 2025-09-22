@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "misc",
+  "pattern": [],
+  "key": {},
+  "base": "minecraft:knowledge_book",
+  "addition": "minecraft:pink_concrete",
+  "template": "minecraft:purple_concrete",
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:big_shot",
+      "minecraft:item_model": "custommusic:music_disc_big_shot"
+    },
+    "count": 1
+  }
+}

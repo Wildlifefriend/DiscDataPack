@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "test_block",
+  "addition": "minecraft:yellow_concrete",
+  "template": "minecraft:gold_ingot",
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:i_love_the_ccp",
+      "minecraft:item_name": "Music Disc",
+      "minecraft:item_model": "custommusic:music_disc_i_love_the_ccp"
+    },
+    "count": 1
+  }
+}

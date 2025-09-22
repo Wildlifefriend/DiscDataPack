@@ -1,0 +1,1 @@
+give @s minecraft:knowledge_book[minecraft:jukebox_playable="custommusic:spamton",minecraft:item_model="custommusic:music_disc_spamton",minecraft:item_name="Music Disc",minecraft:rarity="uncommon"] 1

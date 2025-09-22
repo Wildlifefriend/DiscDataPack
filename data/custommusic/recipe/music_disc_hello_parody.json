@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RRR",
+    "YIY",
+    "RRR"
+  ],
+  "key": {
+    "I": [
+      "minecraft:iron_ingot"
+    ],
+    "R": [
+      "minecraft:red_concrete"
+    ],
+    "Y": [
+      "minecraft:yellow_concrete"
+    ]
+  },
+  "result": {
+    "id": "minecraft:test_block",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:hello_parody",
+      "minecraft:item_name": "Music Disc",
+      "minecraft:item_model": "custommusic:music_disc_hello_parody",
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1
+  },
+  "show_notification": true
+}

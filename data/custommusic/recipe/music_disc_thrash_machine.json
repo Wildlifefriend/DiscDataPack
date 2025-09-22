@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "WIW",
+    "MMM"
+  ],
+  "key": {
+    "A": [
+      "minecraft:arrow"
+    ],
+    "W": [
+      "minecraft:acacia_planks"
+    ],
+    "I": [
+      "minecraft:iron_ingot"
+    ],
+    "M": [
+      "minecraft:minecart"
+    ]
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:thrash_machine",
+      "minecraft:item_model": "custommusic:music_disc_thrash_machine"
+    },
+    "count": 1
+  },
+  "show_notification": true
+}

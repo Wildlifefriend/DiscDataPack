@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:ram_ranch",minecraft:item_model="custommusic:music_disc_ram_ranch"] 1

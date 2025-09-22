@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "QID",
+    "SSS"
+  ],
+  "key": {
+    "S": [
+      "minecraft:sculk"
+    ],
+    "D": [
+      "minecraft:diamond"
+    ],
+    "Q": [
+      "minecraft:quartz"
+    ],
+    "I": [
+      "minecraft:iron_ingot"
+    ]
+  },
+  "base": "minecraft:music_disc_11",
+  "addition": "minecraft:pink_concrete",
+  "template": "minecraft:purple_concrete",
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:my_castle_town",
+      "minecraft:item_model": "custommusic:music_disc_my_castle_town"
+    },
+    "count": 1
+  }
+}

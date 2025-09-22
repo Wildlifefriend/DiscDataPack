@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:the_world_revolving",minecraft:item_model="custommusic:music_disc_the_world_revolving"] 1

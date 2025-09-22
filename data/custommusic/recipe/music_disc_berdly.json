@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "misc",
+  "base": "minecraft:observer",
+  "addition": "minecraft:gold_ingot",
+  "template": "minecraft:blue_concrete",
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:berdly",
+      "minecraft:item_model": "custommusic:music_disc_berdly"
+    },
+    "count": 1
+  }
+}
