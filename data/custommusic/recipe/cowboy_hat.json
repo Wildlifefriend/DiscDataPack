@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " L ",
+    "LLL",
+    "   "
+  ],
+  "key": {
+    "L": [
+      "minecraft:leather"
+    ]
+  },
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "components": {
+      "minecraft:item_model": "custommusic:cowboy_hat",
+      "minecraft:item_name":"Cowboy Hat",
+      "minecraft:equippable":{
+        "slot":"head",
+        "equip_sound": "item.armor.equip_leather"
+        },
+      "minecraft:rarity":"epic"
+    },
+    "count": 1
+  },
+  "show_notification": true
+}

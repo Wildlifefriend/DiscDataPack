@@ -1,0 +1,8 @@
+{
+    "comparator_output": 1,
+    "description": "Smash and Grab - The Croods",
+    "length_in_seconds": 250.0,
+    "sound_event": {
+        "sound_id": "custommusic:music_disc.smash_and_grab"
+    }
+}

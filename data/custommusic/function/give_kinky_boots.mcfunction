@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:kinky_boots",minecraft:item_model="custommusic:music_disc_kinky_boots",minecraft:rarity="uncommon"] 1

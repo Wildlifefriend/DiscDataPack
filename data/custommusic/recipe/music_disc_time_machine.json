@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C#C",
+    "#c#",
+    "C#C"
+  ],
+  "key": {
+    "C": "minecraft:cobbled_deepslate",
+    "#": "minecraft:redstone",
+    "c": "minecraft:clock"
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "minecraft:jukebox_playable": "custommusic:time_machine",
+      "minecraft:item_model": "custommusic:music_disc_time_machine"
+    },
+    "count": 1
+  }
+}

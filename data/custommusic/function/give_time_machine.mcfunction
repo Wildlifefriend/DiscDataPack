@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:time_machine",minecraft:item_model="custommusic:music_disc_time_machine",minecraft:rarity="uncommon"] 1

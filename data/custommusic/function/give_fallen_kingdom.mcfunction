@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:fallen_kingdom",minecraft:item_model="custommusic:music_disc_fallen_kingdom", minecraft:rarity="uncommon"] 1

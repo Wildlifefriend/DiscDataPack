@@ -1,0 +1,1 @@
+give @s minecraft:iron_nugget[minecraft:item_model="custommusic:cowboy_hat",minecraft:equippable={slot:"head"},minecraft:item_name="Cowboy Hat", minecraft:rarity="epic",minecraft:max_stack_size=1]

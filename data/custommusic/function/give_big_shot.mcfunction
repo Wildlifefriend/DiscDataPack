@@ -1,1 +1,1 @@
-give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:big_shot",minecraft:item_model="custommusic:music_disc_big_shot"] 1
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:big_shot",minecraft:item_model="custommusic:music_disc_big_shot",minecraft:rarity="uncommon"] 1

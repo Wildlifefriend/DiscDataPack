@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_11[minecraft:jukebox_playable="custommusic:sink_the_bismarck",minecraft:item_model="custommusic:music_disc_sink_the_bismarck",minecraft:rarity="uncommon"] 1
